@@ -1,0 +1,8 @@
+{
+  "name": "CirZuit-V8.7",
+  "description": "Imported from GitHub: alzoubi93/CirZuit-V8.6",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
